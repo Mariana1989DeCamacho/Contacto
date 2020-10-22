@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="nombre">Mariana Joselyn Perez</string>
+    <string name="fecha1">fecha</string>
+    <string name="telefono1">095111555</string>
+    <string name="email1">mp@gmail.com</string>
+    <string name="descripcion1">amiga</string>
+</resources>
